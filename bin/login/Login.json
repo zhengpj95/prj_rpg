@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":640,"height":1136},"compId":2,"child":[{"type":"Rect","props":{"y":0,"x":0,"width":640,"lineWidth":1,"height":1136,"fillColor":"#b4a3a3"},"compId":4},{"type":"Button","props":{"width":150,"skin":"comp/button.png","labelSize":30,"labelAlign":"center","label":"登 录","centerY":0,"centerX":0},"compId":3}],"loadList":["comp/button.png"],"loadList3D":[]}
